@@ -1,7 +1,16 @@
-# Vue 3 + Vite
+# Projeto Sidebar Vue 🌟
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Sobre o Projeto 📖
 
-## Recommended IDE Setup
+Este projeto é focado no aprendizado e desenvolvimento de uma sidebar interativa usando Vue.js. A sidebar é um componente fundamental em muitas interfaces de usuário e aprender a criá-la com Vue é um passo importante no desenvolvimento de habilidades front-end.
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Funcionalidades 🚀
+
+- **Sidebar Expansível**: Uma sidebar que pode ser expandida ou recolhida com um clique.
+- **Navegação com Vue Router**: Uso do Vue Router para navegar entre diferentes páginas/componentes.
+- **Design Responsivo**: Uma sidebar que se adapta a diferentes tamanhos de tela.
+
+## Tecnologias Utilizadas 💻
+
+- **Vue.js**: Framework progressivo para a construção de interfaces de usuário.
+- **Vue Router**: Biblioteca oficial do Vue.js para construção de rotas em aplicações de página única (SPA).
