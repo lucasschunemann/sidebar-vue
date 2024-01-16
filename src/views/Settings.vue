@@ -1,7 +1,7 @@
 <template>
   <main class="about-page">
-    <h1>About</h1>
+    <h1>Settings</h1>
     <br />
-    <p>This is a about page</p>
+    <p>This is a settings page</p>
   </main>
 </template>
